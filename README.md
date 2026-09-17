@@ -1180,17 +1180,6 @@ BookStore/
 
 ---
 
-# 👥 Nhóm thực hiện
-
-| Thành viên | MSSV |
-|---|---|
-| Nguyễn Thị Thu Giang | `23010871` |
-| Ngô Thị Minh Phương | `23012156` |
-
-**Trường Đại học Phenikaa**  
-**Đồ án môn học**
-
----
 
 # 🤝 Đóng góp
 
@@ -1233,21 +1222,6 @@ Mở Pull Request và mô tả:
 
 ---
 
-# 📄 Giấy phép
-
-Dự án được định hướng sử dụng:
-
-**MIT License**
-
-Nếu repository chưa có file:
-
-```text
-LICENSE
-```
-
-nên bổ sung file MIT License chính thức để thể hiện rõ quyền sử dụng và phân phối.
-
----
 
 # 🔗 Liên kết
 
