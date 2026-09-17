@@ -16,6 +16,12 @@
 </div>
 
 ---
+## 👨‍💻 Author / Creator
+**Ngô Thị Minh Phương** 
+* GitHub: https://github.com/mfuongg
+* Email: fuongm06@example.com
+
+---
 
 ## 📖 Giới thiệu
 
